@@ -74,3 +74,4 @@ We aim to produce **Kaggle & GitHub–ready** code: clean, modular, and error-fr
 - For **traders**, short-term forecasts from RF and structural trends from Prophet can be combined into a **tactical strategy**.
 
 All projections are **model-based** and must be complemented by **contemporary macro data and news flow** before real-world decisions.
+[Kaggle](https://www.kaggle.com/code/hammadansari7/notebooke37fc8c0cc/edit#7.-Machine-Learning-Forecasting-(Random-Forest))
