@@ -28,7 +28,8 @@ This notebook performs a **full end-to-end analysis** and **forecasting** of COM
 We aim to produce **Kaggle & GitHub–ready** code: clean, modular, and error-free, with high-quality plots.
 
 ---
-![Uploading b_creat_a_image_for_Si (1).jpeg…]()
+![b_creat_a_image_for_Si (1)](https://github.com/user-attachments/assets/28711d33-1be6-4add-97ae-3d2fe29ead70)
+
 
 
 ### 3.4. Initial Observations & Hypotheses
