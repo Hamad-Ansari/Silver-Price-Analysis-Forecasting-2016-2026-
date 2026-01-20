@@ -75,3 +75,4 @@ We aim to produce **Kaggle & GitHub–ready** code: clean, modular, and error-fr
 
 All projections are **model-based** and must be complemented by **contemporary macro data and news flow** before real-world decisions.
 [Kaggle](https://www.kaggle.com/code/hammadansari7/notebooke37fc8c0cc/edit#7.-Machine-Learning-Forecasting-(Random-Forest))
+[kaggle](!https://www.kaggle.com/code/hammadansari7/silver-price-analysis-forecasting-2016-2026)
